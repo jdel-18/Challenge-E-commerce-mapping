@@ -9,5 +9,6 @@ Open the project on VScode and right click on the file and open "open in integra
 
 
 ## Usage
+First type "npm run seed" 
 Type "node start" and copy the localhost route to insomnia.
 ![Screenshot 2023-05-22 235443](https://github.com/jdel-18/Challenge-E-commerce-mapping/assets/124110067/5acb9076-080a-4472-ba2d-cbf94dd4232e)
